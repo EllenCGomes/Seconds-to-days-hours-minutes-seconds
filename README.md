@@ -1,3 +1,9 @@
+Built with: Python
+
+Project Status: Concluded :heavy_check_mark:
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 &nbsp; 🇺🇸 &nbsp; This assignment is part of Coursera's course "[Introduction to Computer Science with Python Part 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) by University of São Paulo" programming assignments
 
 EXERCISE DESCRIPTION: Write a Python program that, given the number of seconds, "breaks" that value into days, hours, minutes, and seconds. The output must be in the format: a days, b hours, c minutes and d seconds.
